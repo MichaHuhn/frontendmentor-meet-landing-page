@@ -14,14 +14,14 @@ import SectionNumber from '@/components/SectionNumber.vue';
         <img src="@/assets/images/desktop/man-texting.jpg" alt="A man is texting">
       </div>
       
-      <div class="text-content">
+      <article class="text-content">
         <p class="subtitle">Built for modern use</p>
         <h2 class="title">Smarter meetings, all in one place</h2>
         <p class="description">
           Send messages, share files, show your screen, and record your meetings — all in one
           workspace. Control who can join with invite-only team access, data encryption, and data export.
         </p>
-      </div>
+      </article>
     </div>
   </main>
 </template>
