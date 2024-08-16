@@ -26,14 +26,20 @@ Users should be able to:
 
 Desktop:
 
+![](./screenshot-desktop.png)
+
 Tablet:
+
+![](./screenshot-tablet.png)
 
 Mobile:
 
+![](./screenshot-mobile.png)
+
 ### Links
 
-- Live site: [Add live site URL here](https://your-live-site-url.com)
-- Challenge solution: [Add solution URL here](https://your-solution-url.com)
+- Live site: <https://michahuhn.github.io/frontendmentor-meet-landing-page>
+- Challenge solution: <https://www.frontendmentor.io/solutions/meet-landing-page-using-vue-PEep7g3r7Y>
 
 ## My process
 
