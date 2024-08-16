@@ -1,5 +1,7 @@
 <script setup lang="ts">
-const props = defineProps(['color']);
+const props = defineProps<{
+  color: 'blue' | 'purple'
+}>();
 </script>
 
 <template>
