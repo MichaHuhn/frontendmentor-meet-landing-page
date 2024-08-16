@@ -1,0 +1,10 @@
+html {
+  @media (prefers-reduced-motion: no-preference) {
+    scroll-behavior: smooth;
+  }
+}
+
+body {
+  background-color: var(--color-white);
+  font-family: var(--font-family-primary), sans-serif;
+}

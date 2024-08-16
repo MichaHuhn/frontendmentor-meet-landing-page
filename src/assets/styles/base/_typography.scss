@@ -1,0 +1,74 @@
+@mixin typography-mobile-1 {
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 1.1;
+}
+
+@mixin typography-mobile-2 {
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.1;
+}
+
+@mixin typography-mobile-3 {
+  font-size: 0.75rem;
+  font-weight: 900;
+  line-height: 1.1;
+  letter-spacing: calc(4 / 12 * 1em);
+}
+
+@mixin typography-tablet-1 {
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.1;
+}
+
+@mixin typography-tablet-2 {
+  font-size: 2.25rem;
+  font-weight: 900;
+  line-height: 1.1;
+}
+
+@mixin typography-tablet-3 {
+  font-size: 0.875rem;
+  font-weight: 900;
+  line-height: 1.1;
+  letter-spacing: calc(4 / 14 * 1em);
+}
+
+@mixin typography-tablet-4 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+@mixin typography-desktop-1 {
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 1.1;
+}
+
+@mixin typography-desktop-2 {
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 1.1;
+}
+
+@mixin typography-desktop-3 {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.1;
+  letter-spacing: calc(4 / 16 * 1em);
+}
+
+@mixin typography-desktop-4 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+@mixin typography-desktop-5 {
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.5;
+}

@@ -1,0 +1,12 @@
+.max-width-wrapper {
+  --max-width-mobile: calc(305 / 16 * 1rem);
+  --max-width-tablet-1: 31.5rem;
+  --max-width-tablet-2: 42.5rem;
+  --max-width-desktop: 70rem;
+  
+  --_max-width: var(--max-width, --max-width-mobile);
+  --_spacing-inline: var(--spacing-inline, 1rem);
+  
+  width: min(var(--_max-width), 100% - (var(--_spacing-inline) * 2));
+  margin-inline: auto;
+}
